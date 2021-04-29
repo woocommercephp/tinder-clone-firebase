@@ -1,6 +1,6 @@
 # Tinder clone using firebase and firestore
 
-![tinder-clone](https://s3.gifyu.com/images/ezgif-1-ef810891ac5f.gif)
+![tinder-clone](https://pasteboard.co/JZxbpxu.png)
 
 ## Front end
 React + Material-ui
