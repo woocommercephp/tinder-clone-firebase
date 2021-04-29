@@ -1,6 +1,6 @@
 # Tinder clone using firebase and firestore
 
-![demo](https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg)
+![tinder-clone](https://s3.gifyu.com/images/ezgif-1-ef810891ac5f.gif)
 
 ## Front end
 React + Material-ui
